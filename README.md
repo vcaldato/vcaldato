@@ -9,6 +9,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="vini-J" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="vini-C" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="vini-C" height="40" width="50"src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png">
+
+  
 </div>
 
 ##
@@ -21,8 +24,6 @@
   
 </div>
 
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
+
 
 ##
