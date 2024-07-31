@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Vinicius Caldato 👋
 
 -  Quality Analist
--  Estudando Cypress 
+-  Estudando Cypress e Docker
 -  Conhecimento breve em Java e POO e C
+-  
   
 
 
