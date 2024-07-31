@@ -4,7 +4,7 @@
 -  Estudando Cypress e Docker
 -  Conhecimento breve em Java e C
   
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="170" />
 
 
 <div style="display: inline_block"><br>
