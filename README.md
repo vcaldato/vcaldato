@@ -21,8 +21,7 @@
   
 </div>
 
-<!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/ironmaniiith/Github-profile-name-writer -->
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
-
+<img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
 ##
