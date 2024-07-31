@@ -2,7 +2,7 @@
 
 -  Quality Analist
 -  Estudando Cypress 
--  Aprendizado em Java e POO e C
+-  Conhecimento breve em Java e POO e C
   
 
 
