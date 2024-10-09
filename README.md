@@ -1,5 +1,4 @@
-<img 
-align= 'right' src="https://camo.githubusercontent.com/bc762c717355e136afac12040f81cad4abd2333f069c38e09b6a3de91d2b96bd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4950377361726c3743356c534643773972472f67697068792e676966" alt="Descrição do GIF" width="230" />
+
 ### Olá! Eu sou o Vinicius Caldato 👋
 
 -  Quality Analist
